@@ -1,7 +1,9 @@
 # Full EDA | XGBoost
 
+
 ## Overview  
 This notebook performs a **comprehensive Exploratory Data Analysis (EDA)** and builds a predictive model using **XGBoost**.  
+
 The workflow covers:  
 - Data exploration & visualization  
 - Handling missing values and outliers  
@@ -24,7 +26,7 @@ The workflow covers:
 ### 1. Exploratory Data Analysis (EDA)  
 - Summary statistics of features  
 - Visualizations of distributions and correlations  
-- Outlier and imbalance detection  
+ 
 
 ### 2. Preprocessing & Feature Engineering  
 - Missing value imputation  
