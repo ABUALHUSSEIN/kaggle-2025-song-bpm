@@ -56,6 +56,7 @@ The workflow covers:
 
 ## Requirements  
 Main Python libraries used:  
+
 - `pandas`  
 - `numpy`  
 - `matplotlib`  
